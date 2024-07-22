@@ -1,8 +1,8 @@
 ### Olá, eu sou o Henrique 🖐️
 ----------------
-👨‍💻 Cursando Ciência da Computação <br>
-💻 Iniciante na programação <br>
-🚀 Buscando sempre aprender coisas novas todos os dias
+### 👨‍💻 Cursando Ciência da Computação <br>
+### 💻 Iniciante na programação <br>
+### 🚀 Buscando sempre aprender coisas novas todos os dias
 
 ---------------------
 
