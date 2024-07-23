@@ -6,7 +6,7 @@
 
 ---------------------
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=hewriqi&show_icons=true&theme=dark) [![Top Langs](https://github-stats-heyyczer.vercel.app/api/top-langs/?username=hewriqi&theme=dark&locale=pt-br&layout=compact)](https://github.com/hewriqi)
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=hewriqi&show_icons=true&theme=dark) [![Top Langs](https://github-stats-hewriqi.vercel.app/api/top-langs/?username=hewriqi&theme=dark&locale=pt-br&layout=compact)](https://github.com/hewriqi)
 
 ---------------------
 
