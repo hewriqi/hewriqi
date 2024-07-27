@@ -6,7 +6,7 @@
 
 ---------------------
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=hewriqi&show_icons=true&theme=dark)
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=hewriqi&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hewriqi&theme=dark&layout=compact)
 
 ---------------------
 
