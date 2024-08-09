@@ -17,7 +17,7 @@
 ---------------------
 
 ### Minhas redes sociais 📱
-<br> [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/henjrr/) [![Discord](https://skillicons.dev/icons?i=discord)](https://www.twitch.tv/henriqqzxw) 
+<br> [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/henjrr/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/239069485435322369) 
 
 
 ---------------------
