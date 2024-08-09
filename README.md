@@ -12,7 +12,7 @@
 
 ### Linguagens que estou aprendendo 📚
 
-[![Study](https://skillicons.dev/icons?i=py,html,css,c)](https://skillicons.dev)
+[![Study](https://skillicons.dev/icons?i=py,c,html,css)](https://skillicons.dev)
 
 ---------------------
 
