@@ -1,8 +1,8 @@
-### Olá, eu sou o Henrique 🖐️
+### Hello, I'm Henrique 🖐️
 ----------------
-### 👨‍💻 Cursando Ciência da Computação <br>
-### 💻 Iniciante na programação <br>
-### 🚀 Buscando sempre aprender coisas novas todos os dias
+### 👨‍💻 Studying Computer Science <br>
+### 💻 Beginner in programming <br>
+### 🚀 Always looking to learn new things every day
 
 ---------------------
 
@@ -10,13 +10,13 @@
 
 ---------------------
 
-### Linguagens que estou aprendendo 📚
+### Languages ​​I'm learning 📚
 
 [![Study](https://skillicons.dev/icons?i=py,c,html,css)](https://skillicons.dev)
 
 ---------------------
 
-### Minhas redes sociais 📱
+### My social networks 📱
 <br> [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/henjrr/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/239069485435322369) 
 
 
