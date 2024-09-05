@@ -12,7 +12,7 @@
 
 ### Languages ​​I'm learning 📚
 
-[![Study](https://skillicons.dev/icons?i=py,c,html,css)](https://skillicons.dev)
+[![Study](https://skillicons.dev/icons?i=py,c,cpp,arduino,html,css)](https://skillicons.dev)
 
 ---------------------
 
